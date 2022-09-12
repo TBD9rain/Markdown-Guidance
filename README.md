@@ -2,12 +2,12 @@
 
 ## Basic Sytax
 
-### heading: 
+### heading
 "# Head 1"
 "## Head 2"
 "### Head 3"
 
-### Blod:
+### Blod
 **bold text**
 
 ### Italic
